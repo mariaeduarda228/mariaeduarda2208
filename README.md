@@ -55,6 +55,7 @@ Olá, me chamo Maria Eduarda, tenho 18 anos e atualmente estou cursando faculdad
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&repo=nlw-unite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariaeduarda228/nlw-unite)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariaeduarda228/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=pet-life&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariaeduarda228/pet-life)
 
 <!---
 mariaeduarda228/mariaeduarda228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
