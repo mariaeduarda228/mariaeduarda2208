@@ -1,4 +1,4 @@
-# Olá! Eu sou a Maria Eduarda Bastos
+# Olá! Eu sou a Maria Eduarda
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeduarda228&theme=github_dark&show_icons=true)
 
