@@ -55,7 +55,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&repo=nlw-unite&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/nlw-unite)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=pet-life&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/pet-life)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=pet-life&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/sucesso-teen)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=sucesso-teen&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/sucesso-teen)
 
 <!---
 mariaeduarda228/mariaeduarda228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
