@@ -7,7 +7,6 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-100?style=for-the-badge&logo=)](https://www.dio.me/users/mariaeduarda08222005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/maria-eduarda-bastos-9139a3259/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariaeduarda228)
-[![Discord](https://img.shields.io/badge/Discord-100?style=for-the-badge&logo=discord&logoColor=)](https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/-Instagram-100?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/e_mary22/)
 
 ## Estudando Atualmente
@@ -17,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-100?style=for-the-badge&logo=javascript&logoColor=)
 ![Python](https://img.shields.io/badge/python-100?style=for-the-badge&logo=python&logoColor=)
 ![TypeScript](https://img.shields.io/badge/TypeScript-100?style=for-the-badge&logo=typescript&logoColor=)
-![C#](https://img.shields.io/badge/C%23-100?style=for-the-badge&logo=c-sharp&logoColor=)
+![C#](https://img.shields.io/badge/C%23-100?style=for-the-badge&logo=c-sharp&logoColor=)        
 ![C](https://img.shields.io/badge/C-100?style=for-the-badge&logo=c&logoColor=0077B5)
 
 ### - Bibliotecas e Frameworks
@@ -56,6 +55,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&repo=nlw-unite&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/nlw-unite)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=pet-life&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/pet-life)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduarda228&&repo=pet-life&bg_color=000&border_color=30A3DC&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/mariaeduarda228/sucesso-teen)
 
 <!---
 mariaeduarda228/mariaeduarda228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
